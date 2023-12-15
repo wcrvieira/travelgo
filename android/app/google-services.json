@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821444634282",
+    "project_id": "travelapp-806ee",
+    "storage_bucket": "travelapp-806ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821444634282:android:f277a1ce81c340a7ed12d3",
+        "android_client_info": {
+          "package_name": "com.example.travelgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljDPCl1kav62fmgqnOQtTvqxBUGmFqfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

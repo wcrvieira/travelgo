@@ -1,0 +1,1 @@
+export 'package:travelgo/models/travel.dart';
